@@ -230,12 +230,15 @@ class GCGResult:
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{chugh2024recap,
-  title={RECAP: Retrieval-based Adversarial Prompt Attack on Large Language Models},
+@article{chugh2026recap,
+  title={RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models},
   author={Chugh, Rishit},
-  year={2024}
+  journal={arXiv preprint},
+  year={2026}
 }
 ```
+
+*Note: arXiv link coming soon*
 
 ## License
 
