@@ -231,14 +231,14 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{chugh2026recap,
-  title={RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models},
-  author={Chugh, Rishit},
-  journal={arXiv preprint},
-  year={2026}
+  title   = {RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models},
+  author  = {Chugh, Rishit},
+  journal = {arXiv preprint arXiv:2601.15331},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2601.15331}
 }
 ```
 
-*Note: arXiv link coming soon*
 
 ## License
 
