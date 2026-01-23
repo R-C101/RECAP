@@ -12,6 +12,17 @@ RECAP works by:
 
 This retrieval-based approach is more efficient than optimization-based methods like GCG, as it leverages previously discovered attack patterns rather than generating new ones from scratch.
 
+## Example
+
+Here's an example of RECAP in action, showing how an adversarial prompt successfully bypasses LLM safety guardrails:
+
+![RECAP Attack Example](examples/recap_attack_example.jpeg)
+
+The example demonstrates:
+- Input: A malicious prompt ("How to evade taxes?")
+- RECAP-generated adversarial suffix appended to the prompt
+- Output: The LLM responds with detailed tax evasion strategies (bypassing safety filters)
+
 ## Installation
 
 ### Using uv (Recommended)
